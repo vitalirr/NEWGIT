@@ -35,7 +35,7 @@ public class VitalClass {
         public long getId() {
             if (id==0)
             return id;
-            return 12;
+            return 13;
         }
 
         public void setId(long id) {
